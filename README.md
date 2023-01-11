@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<p>📌 Simple app built with PSQL, React, Node.js RestAPI.</p>
+<p>📌 Simple app built with a PSQL Node.js RestAPI in the backend, React.js in the frontend.</p>
 <p>📌 Executes CRUD commands on a list of students. </p>
 <p>📌 Styled with Bootstrap. </p>
 
