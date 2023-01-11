@@ -5,9 +5,8 @@
   </a>
 </p>
 
-<p>📌 Makes use of PSQL, React and a Node.js RestAPI.</p>
-<p>📌 Executes CRUD commands on a list students. </p>
-<p>📌 Styled with Bootstrap4. </p>
+<p>📌 Simple app built with PSQL, React, Node.js RestAPI.</p>
+<p>📌 Executes CRUD commands on a list of students. </p>
+<p>📌 Styled with Bootstrap. </p>
 
-
-[<img src="https://res.cloudinary.com/dojn5va73/image/upload/v1673445455/pern-app_bo14mq.png" >]
+<img src="https://res.cloudinary.com/dojn5va73/image/upload/v1673445455/pern-app_bo14mq.png" >
