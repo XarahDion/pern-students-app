@@ -10,4 +10,4 @@
 <p>📌 Styled with Bootstrap4. </p>
 
 
-[<img width="196px" height="403px" src="https://res.cloudinary.com/dojn5va73/image/upload/v1673445455/pern-app_bo14mq.png" >]
+[<img src="https://res.cloudinary.com/dojn5va73/image/upload/v1673445455/pern-app_bo14mq.png" >]
