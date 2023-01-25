@@ -1,9 +1,4 @@
 <h1 align="center">Pern Students App</h1>
-<p>
-  <a href="https://twitter.com/XarahDion" target="_blank">
-    <img alt="Twitter: XarahDion" src="https://img.shields.io/twitter/follow/XarahDion.svg?style=social" />
-  </a>
-</p>
 
 <p>📌 Simple app built with a PSQL Node.js RestAPI in the backend, React.js in the frontend.</p>
 <p>📌 Executes CRUD commands on a list of students. </p>
